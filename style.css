@@ -2,5 +2,6 @@
 
 .contacts-info {
   display: flex;
-  justify-content: space;
+  justify-content: space-between;
+  margin: 10px;
 }
