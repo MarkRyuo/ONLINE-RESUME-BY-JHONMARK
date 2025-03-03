@@ -3,4 +3,18 @@
 :root {
   --clr-black-500: #000;
   --clr-white-500: #fff;
+
+
+}
+
+* {
+  margin: 0px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
 }
