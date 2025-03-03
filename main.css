@@ -29,3 +29,7 @@ span {
 .skills-container {
   margin: 10px;
 }
+
+ul, li {
+  margin: 10px;
+}
